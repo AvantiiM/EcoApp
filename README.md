@@ -69,8 +69,8 @@ Perviously: Comic recommendations/reading list app using an api
 * Toggle
   
 - [ ] Stats
-* Reading List
-* Toggle Completed/Incompleted Series
+* Show categories DONE
+* Show Eco stats as user completes more tasks from the tasks to do screen
 
 
 ### 3. Navigation
@@ -82,7 +82,7 @@ Perviously: Comic recommendations/reading list app using an api
 
 **Flow Navigation** (Screen to Screen)
 
-- [ ] Loading Screen
+- [x] Loading Screen
 * Home Screen
   
 - [x] Home Screen
